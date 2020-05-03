@@ -514,6 +514,7 @@ $ python
 $ workon nanocv
 $ python test_camera_nano.py
 ```
+![camera test](https://github.com/T-DevH/jetson-nano-tfdev/blob/master/images/cameratest.png)
 ## References & useful links
 - [Jetson Nano Brings AI Computing to Everyone](https://devblogs.nvidia.com/jetson-nano-ai-computing/)
 
