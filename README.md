@@ -394,7 +394,8 @@ Compilation process with Make, this type will take around 2.5 hours:
 ```
 $ make -j4
 ```
-![Compiling with Make](https://github.com/T-DevH/Jetson-nano-step1/blob/master/images/Screenshot%20from%202020-04-17%2010-37-59.png)
+![Compiling with Make](https://github.com/T-DevH/jetson-nano-tfdev/blob/master/images/Screenshot%20from%202020-04-17%2010-37-59.png)
+
 Finish installation with install command:
 ```
 $ sudo make install
@@ -517,5 +518,7 @@ $ python test_camera_nano.py
 ![camera test](https://github.com/T-DevH/jetson-nano-tfdev/blob/master/images/cameratest.png)
 ## References & useful links
 - [Jetson Nano Brings AI Computing to Everyone](https://devblogs.nvidia.com/jetson-nano-ai-computing/)
-
-
+- [Pyimagesearch](https://www.pyimagesearch.com/category/embedded/)
+- [Opencv](https://opencv.org/)
+- [Dlib](http://dlib.net/)
+- [Building Dlib on nano](https://forums.developer.nvidia.com/t/issues-with-dlib-library/72600/46)
