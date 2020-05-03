@@ -1,6 +1,7 @@
 # Jetson nano configuration & getting ready for development
 
 NVIDIA announced the Jetson Nano Developer Kit at the 2019 NVIDIA GPU Technology Conference (GTC), a $99 computer available for embedded designers, researchers, and DIY makers, delivering the power of modern AI in a compact, easy-to-use platform with full software programmability. Jetson Nano delivers 472 GFLOPS of compute performance with a quad-core 64-bit ARM CPU and a 128-core integrated NVIDIA GPU. It also includes 4GB LPDDR4 memory in an efficient, low-power package with 5W/10W power modes and 5V DC input, as shown in figure 1. An exciting piece of technology. I was a very early developer on the Jetson platform with the first generation the TK1. I started deploying CV edge solutions in 2003 and I witnessed the incredible evolution of CV and embedded solutions. Jetson nano is one of the most efficient embedded solutions (Cost, Power, Functionalities) for CV in the world. This repo's objective is to speed up the process of configuring the Jetson-nano and start developing some innovative and great applications. I will share only what worked, I tested and what I learned. And step by step learning process. You will also find periodically pre-configured images so you can start working on your AI embedded CV solutions.
+![Jetson nano](https://github.com/T-DevH/jetson-nano-tfdev/blob/master/images/nano.jpg)
 
 ## Hardware
 - Jetson nano
